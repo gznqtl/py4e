@@ -4,4 +4,11 @@ print ('Estoy usando GitHub')
 for i in [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ]:
     print ('Dentro de mi ciclo', i )
 
-print('Hemos temrinado')
+print('Hemos terminado')
+
+i=20
+while i>=0 :
+    print (i)
+    i=i-1
+
+print ('Hemos terminado') 
